@@ -1,0 +1,29 @@
+[
+  {
+    "model": "Firstpage.appeal",
+    "pk": 1,
+    "fields": {
+      "title": "Не працює принтер",
+      "description": "Принтер не друкує, блимає червоний індикатор.",
+      "created_at": "2026-02-23T20:00:00Z"
+    }
+  },
+  {
+    "model": "Firstpage.appeal",
+    "pk": 2,
+    "fields": {
+      "title": "Нема доступу до Wi-Fi",
+      "description": "Мережа є, але не підключається, пише 'No internet'.",
+      "created_at": "2026-02-23T20:10:00Z"
+    }
+  },
+  {
+    "model": "Firstpage.appeal",
+    "pk": 3,
+    "fields": {
+      "title": "Потрібна установка софта",
+      "description": "Потрібно встановити VS Code та Python на ПК №12.",
+      "created_at": "2026-02-23T20:20:00Z"
+    }
+  }
+]
